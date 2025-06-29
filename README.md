@@ -1,6 +1,6 @@
 #  Hi I'm Akum Imchen 👋
 
-🎐I'm pursuing a Bachelor's in Computer Science, focused on building strong programming skills and exploring the IT industry. I'm passionate about Fullstack Development and aim to specialize in it for my long-term career."
+🎐I'm pursuing a Bachelor's degree in Computer Science, focused on building strong programming skills and exploring the IT industry. I'm passionate about Fullstack Development and aim to specialize in it for my long-term career."
 
 
 
