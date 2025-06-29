@@ -2,7 +2,7 @@
 
 🎐I'm currently pursuing a Bachelor's degree in Computer Science, actively working on improving my programming skills, and exploring various areas of the IT industry. 
  My academic and personal learning journey is focused on building a solid foundation in software development while actively exploring emerging technologies. I am particularly passionate about 
-Fulllstack Development ,Artificial Intelligence and Machine Learning, and I aim to specialize in these fields as a long-term career path.
+Fulllstack Development and I aim to specialize in these fields as a long-term career path.
 
 
 
