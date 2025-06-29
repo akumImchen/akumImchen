@@ -1,4 +1,4 @@
-#  Hi I'm Aküm Imchen 👋
+#  Hi I'm Aküm Imchen 
 
 🎐I'm pursuing a Bachelor's degree in Computer Science, focused on building strong programming skills and exploring the IT industry. I'm passionate about Fullstack Development and aim to specialize in it for my long-term career."
 
